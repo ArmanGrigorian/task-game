@@ -1,0 +1,12 @@
+:root {
+  --my-font-family: system-ui, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: var(--my-font-family);
+}
+
+
